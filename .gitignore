@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.venv/
+env/
+venv/
+trains/
+*.pt
+data/augmented_images/
+data/augmented_labels/
+*.avi
+*.mp4
+.env
+yolov5/
